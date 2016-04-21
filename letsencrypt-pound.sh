@@ -1,7 +1,7 @@
 #!/bin/bash
 #===================================================================================
-#	FILE:  letsencrypt_pound.sh
-#	USAGE:  ./letsencrypt_pound.sh
+#	FILE:  letsencrypt-pound.sh
+#	USAGE:  ./letsencrypt-pound.sh
 #	DESCRIPTION:  A Let's Encrypt script : create or renewal your certificate with pound proxy
 #
 #
